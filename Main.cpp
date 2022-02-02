@@ -30,7 +30,7 @@ public:
 	}
 	void form() const {
 		std::cout << "The tank has " <<
-		sDriver << ", " << sGunType << ", " << sGunType << "." <<std::endl;
+		sDriver << ", " << sArmour << ", " << sGunType << "." <<std::endl;
 	}
 
 };
